@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GasC_app", "GasC_app\GasC_app.shproj", "{3141570E-883A-41CA-9144-280F4B9AC34C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasC_app.iOS", "iOS\GasC_app.iOS.csproj", "{5E2EF4E6-23D7-4B5E-8A12-624E992AE851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2EF4E6-23D7-4B5E-8A12-624E992AE851}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5E2EF4E6-23D7-4B5E-8A12-624E992AE851}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5E2EF4E6-23D7-4B5E-8A12-624E992AE851}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5E2EF4E6-23D7-4B5E-8A12-624E992AE851}.Release|iPhone.Build.0 = Release|iPhone
+		{5E2EF4E6-23D7-4B5E-8A12-624E992AE851}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5E2EF4E6-23D7-4B5E-8A12-624E992AE851}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{5E2EF4E6-23D7-4B5E-8A12-624E992AE851}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5E2EF4E6-23D7-4B5E-8A12-624E992AE851}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
